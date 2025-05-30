@@ -1,0 +1,2 @@
+1	|1000024617	|1	|name	|male	|DEL	|MUM	|2AC	|4500	|
+2	|1000025076	|1	|asd	|male	|DEL	|MUM	|2AC	|4500	|
