@@ -1,0 +1,5 @@
+DEL,New Delhi
+MUM,Mumbai Central
+CHN,Chennai Central
+KOL,Kolkata
+BLR,Bengaluru
